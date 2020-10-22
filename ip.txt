@@ -39,7 +39,7 @@ https://daobet.westaking.io
 https://daobet-api.kaiserlabs.at
 https://daobet-api.everstake.one/
 https://daobet-api.eos.barcelona/
-http://api.daobet.telosunlimited.io/
+https://api.daobet.telosunlimited.io/
 
 // History (v2 - hyperion)
 
